@@ -1,12 +1,11 @@
-# ValhaLift
+# POSEidon
 
 A smart fitness coaching app powered by computer vision and AI to perfect your form and track your progress.
 
-![ValhaLift Logo](https://via.placeholder.com/400x100)
 
 ## Overview
 
-ValhaLift combines cutting-edge computer vision technology with on-device AI processing to create a personal fitness coach that fits in your pocket. The app analyzes your workout form in real-time, counts repetitions, provides vocal feedback, and tracks your progress over time.
+POSEidon combines cutting-edge computer vision technology with on-device AI processing to create a personal fitness coach that fits in your pocket. The app analyzes your workout form in real-time, counts repetitions, provides vocal feedback, and tracks your progress over time.
 
 ## Tech Stack
 
@@ -58,10 +57,6 @@ ValhaLift combines cutting-edge computer vision technology with on-device AI pro
 - iOS 14+ or Android 9+
 - Camera and microphone permissions
 - 500MB free storage space
-
-### Install from App Stores
-- [App Store](https://apps.apple.com/app/valhalift)
-- [Google Play](https://play.google.com/store/apps/details?id=com.valhalift)
 
 ## Development Setup
 
@@ -192,10 +187,3 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-- Documentation: [docs.valhalift.com](https://docs.valhalift.com)
-- FAQ: [valhalift.com/faq](https://valhalift.com/faq)
-- Contact: [support@valhalift.com](mailto:support@valhalift.com)
-- Twitter: [@ValhaLift](https://twitter.com/ValhaLift)
